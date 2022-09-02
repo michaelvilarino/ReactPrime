@@ -1,0 +1,23 @@
+1 - instalar o node.js
+2 - instalar o expo: "npm install --global expo-cli"
+3 - criar o projeto: "expo init meuapp" - selecionar a opção blank
+4 - acessar a pasta do projeto pelo cmd e digitar: "expo start"
+5 - instalar o android studio, configurar emulador x86_x64 => "Q" - versão mais leve com google play.
+6 - instalar o styled-Components: "expo install styled-components"
+7 - instalar pacote de navegação: "expo install @react-navigation/native",
+    "expo install react-native-screens react-native-safe-area-context",
+    "expo install @react-navigation/native-stack",
+    "expo install @react-navigation/drawer",
+    "expo install react-native-gesture-handler react-native-reanimated"
+
+8 - instalar a extensão do styled component no vscode: vscode-styled-components
+
+9 - expo install axios
+
+10- expo install react-native-stars
+
+11- expo install react-native-webview
+
+12- expo install @react-native-async-storage/async-storage
+
+13- expo:android
